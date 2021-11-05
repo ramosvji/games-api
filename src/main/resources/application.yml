@@ -1,0 +1,10 @@
+server:
+  port: 8090
+  
+spring:
+  application:
+    name: gamesApiApp
+  data:
+    mongodb:
+      database: myFirstDatabase
+      uri: mongodb+srv://ramosvji:C5O8g6D7gSR22tU6@cluster0.bfwpk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
